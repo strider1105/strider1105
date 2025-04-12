@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prabal_dey
-- 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning machine learning
+- 👀 I’m interested in artificial intelligence and game development
+- 🌱 I’m currently learning game development
 - 📫 How to reach me prabaldey77@gmail.com
 - 😄 Pronouns: he/him
 
